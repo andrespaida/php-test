@@ -1,0 +1,8 @@
+{
+    "name": "simple-php-site",
+    "description": "A simple PHP website for Render deployment",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    }
+}
